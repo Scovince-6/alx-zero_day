@@ -1,1 +1,1 @@
-firt diretory
+first diretory
